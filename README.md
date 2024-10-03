@@ -1,1 +1,1 @@
-"# sha-256-algorithm" 
+This project provides an implementation of the SHA-256 hash function in C++. SHA-256 is a cryptographic hash function that takes an input and produces a fixed-size 256-bit (32-byte) hash value. It is widely used in security protocols, including SSL/TLS and blockchain technology, and forms part of the SHA-2 family of cryptographic hash functions
